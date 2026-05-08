@@ -236,6 +236,6 @@ Reverse engineering tools handle untrusted inputs. Treat binaries and extracted 
 
 ## Future of the app
 
-So what about the future? Well idk really, I started building this after getting mad at IDA asking me to pay exorbitant sums and Ghidra (which I love and use) feels like a frickin spaceship. P.S I would really appreciate if someone took the time to contribute to the for now very poor documentation of this project, building it took a considerable amount of time and I am kind of in a rush caused by life to release it, with its many incomplete features.
+Currently we are working on a 2.0.0 version of the app, will be released shortly. Most of the problems are caused by missing Phi nodes in the IR, and we are working on resolving it.
 
 ### Long live freeware, **ATroubledSnake**
