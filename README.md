@@ -222,7 +222,7 @@ The repo is split into layers:
 
 ## License
 
-The main project is under the SNEK Common-Source License (S-CSL-1.0). You may use, modify, and redistribute freely, but you may not resell the software (original or modified) as a product.
+The main project is under the SNEK Common-Source License 2.0 (S-CSL-2.0). You may use, modify, and redistribute freely, but you may not resell the software (original or modified) as a product.
 
 ## Security / safety notes
 
